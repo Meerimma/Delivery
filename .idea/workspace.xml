@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca8c2adf-a454-40b4-a009-8af64de7803b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="SCSS File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="28GrKKlFnpdYV1fgVHLlXnXYVSM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/Browse__menu" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\IT RUN\My first project__delivery\images\Browse__menu" />
+      <recent name="C:\Users\User\Desktop\IT RUN\My first project__delivery\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca8c2adf-a454-40b4-a009-8af64de7803b" name="Default Changelist" comment="" />
+      <created>1650853698071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650853698071</updated>
+      <workItem from="1650853699808" duration="7392000" />
+      <workItem from="1650896621277" duration="1786000" />
+      <workItem from="1650984132005" duration="4238000" />
+      <workItem from="1651005845345" duration="22000" />
+      <workItem from="1651005897573" duration="776000" />
+      <workItem from="1651006807775" duration="1707000" />
+      <workItem from="1651150665497" duration="2672000" />
+      <workItem from="1651154114446" duration="9661000" />
+      <workItem from="1651234400066" duration="4769000" />
+      <workItem from="1651240270457" duration="5381000" />
+      <workItem from="1651245952486" duration="3240000" />
+      <workItem from="1651328783934" duration="2145000" />
+      <workItem from="1651504088996" duration="12564000" />
+      <workItem from="1651587335133" duration="2758000" />
+      <workItem from="1651592791911" duration="6926000" />
+      <workItem from="1651662250309" duration="4021000" />
+      <workItem from="1651953146519" duration="6000" />
+      <workItem from="1651953703809" duration="106000" />
+      <workItem from="1676912364494" duration="14000" />
+      <workItem from="1677750780581" duration="140000" />
+      <workItem from="1677751246060" duration="723000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
